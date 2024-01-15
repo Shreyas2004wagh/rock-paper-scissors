@@ -1,0 +1,1 @@
+This program implements a simple Rock-Paper-Scissors game between a user and the computer. The user is prompted to enter their choice (rock, paper, or scissors), and the computer randomly selects its choice. The program then determines the winner based on the game rules and prints the results.
